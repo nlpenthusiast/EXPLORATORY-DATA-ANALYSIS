@@ -10,8 +10,8 @@ Exploratory Data Analysis forms the basis of understanding the predictors, their
 It helps in observing important trends in the dataset.
 
 Univariate , Bivariate and Multi-variate analysis :
-
-![Screenshot](Screen Shot 2021-11-06 at 6.25.50 PM)
+![myimage-alt-tag](Screen Shot 2021-11-06 at6.25.50 PM)
+![Screenshot](Screen Shot 2021-11-06 at6.25.50 PM)
 ![Screenshot](Screen Shot 2021-11-06 at 6.25.41 PM)
 ![Screenshot](Screen Shot 2021-11-06 at 6.25.38 PM)
 ![Screenshot](Screen Shot 2021-11-06 at 6.25.34 PM)
